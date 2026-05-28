@@ -1,0 +1,9 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(python -c \"from PIL import Image; print\\('ok'\\)\")",
+      "PowerShell(py -c \"from PIL import Image; print\\('ok'\\)\")",
+      "Bash(rm \"C:\\\\Users\\\\user\\\\Desktop\\\\chuncheon-prevote-2026-main\\\\og-cover-v3.jpg\" \"C:\\\\Users\\\\user\\\\Desktop\\\\chuncheon-prevote-2026-main\\\\make_og.py\" && ls \"C:\\\\Users\\\\user\\\\Desktop\\\\chuncheon-prevote-2026-main\\\\\"*.jpg)"
+    ]
+  }
+}
